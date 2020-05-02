@@ -1,8 +1,8 @@
 {
-  "name": "Askwithme",
-  "description": "askwithme on Thoughts, Stories, Ideas on the business of technology, startups, gadgets etc.,",
-  "demo": "https://askwith.me",
-  "homepage": "https://github.com/dkarthe/rimay#readme",
+  "name": "rimay",
+  "description": "Rimay awesome theme for Ghost",
+  "demo": "https://godofredo.ninja",
+  "homepage": "https://github.com/godofredoninja/rimay#readme",
   "version": "0.0.3",
   "engines": {
     "ghost": ">=3.0.0",
@@ -10,9 +10,9 @@
   },
   "license": "GPLv3",
   "author": {
-    "name": "KD",
-    "email": "hello@askwith.me",
-    "url": "https://askwith.me"
+    "name": "GodoFredo",
+    "email": "hello@godofredo.ninja",
+    "url": "https://godofredo.ninja"
   },
   "gpm": {
     "type": "theme",
@@ -25,17 +25,17 @@
     ]
   },
   "keywords": [
-    "askwithme",
-    "askwith",
-    "askme",
-    "askwith.me",
-    "ask.me"
+    "ghost",
+    "theme",
+    "photographer",
+    "godofredo",
+    "ghost-theme"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dkarthe/rimay.git"
+    "url": "https://github.com/godofredoninja/rimay.git"
   },
-  "bugs": "https://github.com/dkarthe/rimay/issues",
+  "bugs": "https://github.com/godofredoninja/rimay/issues",
   "config": {
     "posts_per_page": 18,
     "image_sizes": {
